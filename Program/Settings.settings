@@ -1,0 +1,42 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WhatsappAutomation" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="enableTooltip" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="programTheme" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LIGHT</Value>
+    </Setting>
+    <Setting Name="programAccentColor" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Pink100</Value>
+    </Setting>
+    <Setting Name="programPirmaryColor1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Indigo500</Value>
+    </Setting>
+    <Setting Name="programPirmaryColor2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Indigo700</Value>
+    </Setting>
+    <Setting Name="programPirmaryColor3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Indigo100</Value>
+    </Setting>
+    <Setting Name="chromeOptions" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="txtFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">VeliBilgileri.txt</Value>
+    </Setting>
+    <Setting Name="usedSchoolNumber" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="studentImageFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LÜTFEN SEÇİN</Value>
+    </Setting>
+    <Setting Name="startNewChat" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="processDelay" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1000</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
